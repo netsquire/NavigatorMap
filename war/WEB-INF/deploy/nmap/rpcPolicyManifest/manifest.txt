@@ -1,0 +1,3 @@
+# Module nmap
+# RPC service class, partial path of RPC policy file
+up.client.NmapService, 0BF0025536F21AB2B07C6C66CF3314AC.gwt.rpc

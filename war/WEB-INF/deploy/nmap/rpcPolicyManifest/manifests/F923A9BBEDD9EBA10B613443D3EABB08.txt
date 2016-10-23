@@ -1,0 +1,2 @@
+serviceClass: up.client.NmapService
+path: 0BF0025536F21AB2B07C6C66CF3314AC.gwt.rpc

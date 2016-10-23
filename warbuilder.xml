@@ -1,0 +1,10 @@
+<project name="nmap" basedir="." default="default">
+	<target name="default">	
+		<war basedir="war" destfile="nmap.war" webxml="war/WEB-INF/web.xml">
+			<exclude name="war/WEB-INF/**" />
+			<webinf dir="war/WEB-INF/">
+				<include name="**/*.jar" />
+			</webinf>
+		</war>
+	</target>
+</project>
